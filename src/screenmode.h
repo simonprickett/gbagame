@@ -2,7 +2,7 @@
  *
  * screenmode.h
  *
- * Originslly by "Dovoto"
+ * Originally by "Dovoto"
  *
  */
 
